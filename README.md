@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaraboSkay
 - 👀 I’m a noob interested in software development and design 
-- 🌱 I’m currently learning web development and UX/UI
+- 🌱 I’m currently studying computer science
 - 💞️ I’m looking to collaborate on development and design projects 
 - 📫 How to reach me: Twitter - @khmolefe31 
 
