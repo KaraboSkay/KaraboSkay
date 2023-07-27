@@ -8,7 +8,7 @@ I'm an enthusiastic software development and cybersecurity enthusiast, eager to 
 
 ## Current Status 🌱
 
-I'm actively seeking opportunities in the tech industry. Whether it's a job, internship, or project collaboration, I'm open to exploring new possibilities.
+I'm actively seeking opportunities in the tech industry while pursuing my studies in computer science. Whether it's a job, internship, or project collaboration, I'm open to exploring new possibilities.
 
 ## Interests and Goals 🔍
 
