@@ -1,4 +1,4 @@
-# Hi there, I’m Karabo Skay! 👋
+# Hi there, I’m Karabo Molefe! 👋
 
 Welcome to my GitHub profile!
 
