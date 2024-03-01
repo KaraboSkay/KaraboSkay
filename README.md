@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me 👀
 
-Tech enthusiast eager to explore the world of software development and cybersecurity. Embracing challenges as stepping stones, I'm always on the lookout for opportunities to learn and grow
+I thrive on challenges, seeing them as stepping stones to new knowledge and growth. Always on the lookout for opportunities to expand my skills and expertise.
 
 ## Current Status 🌱
 
