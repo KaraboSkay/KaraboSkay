@@ -12,7 +12,6 @@ I'm actively seeking opportunities in the tech industry while pursuing my studie
 
 ## Interests and Goals 🔍
 
-- Software Development: I enjoy coding in various languages and creating applications that solve real-world problems.
 - Cybersecurity: I'm intrigued by the ever-evolving world of cybersecurity, and I'm keen on contributing to secure digital environments.
 - Artificial Intelligence: I'm passionate about exploring the vast potential of artificial intelligence (A.I.) to revolutionize software development and cybersecurity.
 
